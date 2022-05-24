@@ -1,0 +1,262 @@
+{
+  "3": {
+    "name": "Kong #3",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Brown",
+        "display_type": null
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Pink",
+        "display_type": null
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Dego Tee Blooded",
+        "display_type": null
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Shows Teeth",
+        "display_type": null
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Wide Scar",
+        "display_type": null
+      },
+      {
+        "trait_type": "Shooting",
+        "value": "45",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "55",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "63",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "74",
+        "display_type": "boost_percentage"
+      }
+    ]
+  },
+  "4": {
+    "name": "Kong #4",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink",
+        "display_type": null
+      },
+      {
+        "trait_type": "Fur",
+        "value": "White Noise",
+        "display_type": null
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Regular",
+        "display_type": null
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Regular",
+        "display_type": null
+      },
+      {
+        "trait_type": "Head",
+        "value": "Cap Forward",
+        "display_type": null
+      },
+      {
+        "trait_type": "Shooting",
+        "value": "46",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "55",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "60",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "45",
+        "display_type": "boost_percentage"
+      }
+    ]
+  },
+  "1": {
+    "name": "MetaKongs Club #1 #1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Grey",
+        "display_type": null
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Brown",
+        "display_type": null
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Red Kimono",
+        "display_type": null
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Regular",
+        "display_type": null
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Angry",
+        "display_type": null
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Beret",
+        "display_type": null
+      },
+      {
+        "trait_type": "Shooting",
+        "value": "40",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "53",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "52",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "59",
+        "display_type": "boost_percentage"
+      }
+    ]
+  },
+  "0": {
+    "name": "Kong #0",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Gold",
+        "display_type": null
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey",
+        "display_type": null
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "White Tee",
+        "display_type": null
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Saber Toothed",
+        "display_type": null
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Bloodshot",
+        "display_type": null
+      },
+      {
+        "trait_type": "Shooting",
+        "value": "42",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "41",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "54",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "81",
+        "display_type": "boost_percentage"
+      }
+    ]
+  },
+  "2": {
+    "name": "Kong #2",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue",
+        "display_type": null
+      },
+      {
+        "trait_type": "Fur",
+        "value": "Grey",
+        "display_type": null
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "Striped Tee",
+        "display_type": null
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Ooh",
+        "display_type": null
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Closed",
+        "display_type": null
+      },
+      {
+        "trait_type": "Head",
+        "value": "Green Beret",
+        "display_type": null
+      },
+      {
+        "trait_type": "Shooting",
+        "value": "66",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Defense",
+        "value": "63",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Vision",
+        "value": "30",
+        "display_type": "boost_percentage"
+      },
+      {
+        "trait_type": "Finish",
+        "value": "60",
+        "display_type": "boost_percentage"
+      }
+    ]
+  }
+}
